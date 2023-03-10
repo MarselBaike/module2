@@ -6,7 +6,10 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
+    <div>
   <h1>salam</h1>
+  <p>aleykum</p>
+  </div>
   )
 }
 
