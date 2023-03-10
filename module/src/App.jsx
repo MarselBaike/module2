@@ -11,6 +11,7 @@ function App() {
   <h2>alim</h2>
   <p>aleykum</p>
   <p>Kiro</p>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam inventore fugiat expedita est. Officia, doloremque maiores delectus debitis nam exercitationem.</p>
   <input type="text" name="" id="" />
   </div>
   )
