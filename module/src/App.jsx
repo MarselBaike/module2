@@ -10,6 +10,8 @@ function App() {
   <h1>salam</h1>
   <h2>alim</h2>
   <p>aleykum</p>
+  <p>Kiro</p>
+  <input type="text" name="" id="" />
   </div>
   )
 }
