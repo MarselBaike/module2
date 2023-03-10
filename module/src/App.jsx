@@ -8,6 +8,7 @@ function App() {
   return (
     <div>
   <h1>salam</h1>
+  <h2>alim</h2>
   <p>aleykum</p>
   </div>
   )
