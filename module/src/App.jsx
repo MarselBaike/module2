@@ -13,6 +13,7 @@ function App() {
   <p>Kiro</p>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam inventore fugiat expedita est. Officia, doloremque maiores delectus debitis nam exercitationem.</p>
   <input type="text" name="" id="" />
+  <button>ertyu</button>
   </div>
   )
 }
